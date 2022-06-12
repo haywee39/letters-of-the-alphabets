@@ -1,0 +1,389 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:#FF5733;
+    
+    }
+
+    #vid{
+        position: fixed;
+    }
+    .ayo{
+    
+         border:5px solid #FFFF00;
+         background-color:white;
+         margin:auto;
+         width:270px;
+         text-align:center;
+         letter-spacing: 40px;    
+         text-shadow:5px 5px 3px black;
+         animation:spin 3s ease-in-out 2s infinite;
+    
+    }
+    @keyframes spin{
+        
+         /*  */
+         50%{
+            transform:rotateY(180deg);
+        }
+    }
+    
+    
+    
+    div{
+        width:100%;
+        color:#AAFF00;
+        display: flex ;
+        justify-content:space-around;
+        margin-top:00px
+    
+    }
+
+    h1{
+        font-size: 60px;
+    }
+    
+    
+    
+    
+    /* section to animate each letters*/
+    
+    .a{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.1s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .b{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.2s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .c{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.3s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .d{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.4s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    .e{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.5s;
+    
+    }
+    @keyframes ayo{
+        10%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .f{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.6s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .g{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.7s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .h{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.8s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    .i{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -0.9s;
+    
+    }
+    @keyframes ayo{
+        10%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .j{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.0s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .k{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.2s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .l{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.3s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    .m{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.4s;
+    
+    }
+    @keyframes ayo{
+        10%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .n{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.5s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .o{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.6s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .p{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.7s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .q{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.8s;
+    
+    }
+    @keyframes ayo{
+        10%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .r{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -1.9s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .s{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.0s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .t{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.1s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    .u{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.2s;
+    
+    }
+    @keyframes ayo{
+        10%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .v{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.3s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .w{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.4s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    .x{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.5s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    .y{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.6s;
+    
+    }
+    @keyframes ayo{
+        10%{
+            transform:translate(0, 15px);
+    
+        }
+    }
+    
+    .z{
+        text-shadow:3px 3px black;
+        animation: ayo 1s linear infinite;
+        animation-delay: -2.7s;
+    
+    }
+    @keyframes ayo{
+        60%{
+            transform:translate(0, 15px);
+        }
+    }
+    
+    
+    
+    
+    .copyright{
+        color:white;
+    }
+    
+    
+    .tag{
+          color:white;
+         text-shadow:5px 5px 3px black;
+         animation:bayo 2s ease 1s infinite;
+    
+    }
+    @keyframes bayo{
+      
+         50%{
+            transform:rotateX(90deg);
+        }
+         50%{
+            transform:rotateY(90deg);
+        }
+    }
+    
+    
